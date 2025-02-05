@@ -19,8 +19,8 @@ public class Review1 {
 
 	public static void q3() {
 		//Write question 3 code here
-		
-		//System.out.println("Hello");
+
+		System.out.println("Hello\nHello again");
 		//System.out.println("Hello again");
 	}
 
